@@ -1,0 +1,28 @@
+body{
+    
+        scroll-behavior: smooth;
+      /* background-image: url(Map.webp); */
+      
+}
+
+
+.zoom {
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  img:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+ 
+a {
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    text-align: center;
+}

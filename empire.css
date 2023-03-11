@@ -1,0 +1,27 @@
+body {
+     background-image: url(POLAND.jpg); 
+}
+#menu{
+    width: 250px;
+    height: 60px;
+    border: 3px solid red;
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    left: 700px;
+
+}
+#menu2{
+    width: 250px;
+    height: 60px;
+    border: 3px solid red;
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    left: 700px;
+    top: 10px;
+    margin: 1px;
+
+}

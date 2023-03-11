@@ -1,0 +1,24 @@
+img:hover {
+    transform: scale(3.5);
+    width: 900px;
+    height:400px;
+    position: relative;
+    top: 400px;
+}
+
+#click{
+    height: 50px;
+    width: 70px;
+    float: left;
+}
+#polskamenu{
+    width: 450px;
+    height: 1000px;
+    float: right;
+    text-align: center;
+    background-color: aqua;
+}
+
+#ze ,#sd,#zl ,#we  {
+    border: 2px solid black;
+}
